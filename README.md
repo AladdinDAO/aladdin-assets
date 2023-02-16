@@ -1,1 +1,1 @@
-# aladdin-assets
+# Assets used on Aladdin
